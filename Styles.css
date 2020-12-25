@@ -1,0 +1,72 @@
+html {background-color:DarkOliveGreen;font-family:Calibri; color: Khaki}
+#Hoofding
+  {color: Khaki;
+  text-align:center;
+  width:35em;
+  height: 12em;
+  margin-left:auto;
+  margin-right: auto;
+  margin-top: 4em;
+  border:3px solid Khaki;}
+
+#WachtwoordInvoer
+{width: 20em;
+height: 2em;
+margin-left: auto;
+margin-right: auto;
+margin-top: 2em;
+display: flex;}
+
+#Boxes
+{width: 25em;
+height: 8em;
+margin-left: auto;
+margin-right: auto;
+margin-top: 2em;
+display: flex;
+align-items:center;
+justify-content: space-between;}
+
+#Vraag
+{font-weight: bold;
+margin-right: 1em;}
+
+#Antwoord
+{margin-right: 1em;}
+
+.Box
+{width: 6em;
+height: 6em;
+background-color: Maroon;
+border-radius: 1em;
+}
+
+.placeholder
+{background-color: Khaki}
+
+.verzendknop
+{font-weight: bold;
+font-family: Calibri;
+border-radius: 0.4em;
+background-color: Khaki;}
+
+p2
+{color: Khaki;}
+
+p1
+{color: DarkOliveGreen;
+font-size: 3em;}
+
+p3
+{color: DarkOliveGreen;
+font-size: 2em;}
+
+a:link,a:visited {
+  text-decoration: none;
+}
+
+#video1
+{margin-left: auto;
+margin-right: auto;
+display: none;
+}
